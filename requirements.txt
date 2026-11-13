@@ -1,0 +1,1 @@
+# O ETL usa somente a biblioteca padrão do Python 3.10+.

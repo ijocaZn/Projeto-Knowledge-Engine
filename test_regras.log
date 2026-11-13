@@ -1,0 +1,29 @@
+Warning: c:/users/joaqu/downloads/projeto raul/projeto-knowledge-engine/regras.pl:85:
+Warning:    Singleton variables: [Gs]
+Warning: c:/users/joaqu/downloads/projeto raul/projeto-knowledge-engine/regras.pl:109:
+Warning:    Singleton variables: [Gs]
+% [1/21] regras:normalizacao_e_discordancia ......... passed (0.013 sec)
+% [2/21] regras:mediana_impar ....................... passed (0.000 sec)
+% [3/21] regras:mediana_par_com_repeticao ........... passed (0.000 sec)
+% [4/21] regras:media_vazia ......................... passed (0.000 sec)
+% [5/21] regras:tolerancia_reproducao_71 ............ passed (0.000 sec)
+% [6/21] regras:nota_igual_media_nao_aceita ......... passed (0.002 sec)
+% [7/21] regras:nota_abaix..lerancia_nao_aceita ..... passed (0.000 sec)
+% [8/21] regras:nota_acima_da_tolerancia_aceita ..... passed (0.000 sec)
+% [9/21] regras:vendas_igu..mediana_nao_aceitas ..... passed (0.000 sec)
+% [10/21] regras:vendas_qua..mediana_nao_aceitas .... passed (0.000 sec)
+% [11/21] regras:caso_completo_selecionado ..
+Warning: [Thread main] c:/users/joaqu/downloads/projeto raul/projeto-knowledge-engine/test_regras.pl:72:
+Warning: [Thread main]     test regras:caso_completo_selecionado: Test succeeded with choicepoint
+% [12/21] regras:nota_ausente ....................... passed (0.000 sec)
+% [13/21] regras:minimos_exatos_e_abaixo ............ passed (0.000 sec)
+% [14/21] regras:agrupamento_sem_mistura ............ passed (0.000 sec)
+% [15/21] regras:tamanho_grupo_abaixo_do_minimo ..... passed (0.000 sec)
+% [16/21] regras:tamanho_grupo_no_minimo ............ passed (0.000 sec)
+% [17/21] regras:vendas_ausentes_por_pergunta ..
+Warning: [Thread main] c:/users/joaqu/downloads/projeto raul/projeto-knowledge-engine/test_regras.pl:112:
+Warning: [Thread main]     test regras:vendas_ausentes_por_pergunta: Test succeeded with choicepoint
+% [18/21] regras:versao_vencedora_unica ............. passed (0.000 sec)
+% [19/21] regras:versoes_empatadas .................. passed (0.000 sec)
+% [20/21] regras:plataformas_insuficientes .......... passed (0.000 sec)
+% [21/21] regras:consultas_sem_resultados ........... passed (0.000 sec)

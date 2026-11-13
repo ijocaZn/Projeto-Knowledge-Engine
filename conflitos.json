@@ -1,0 +1,73 @@
+[
+  {
+    "identity": [
+      "Madden NFL 13",
+      "PS3",
+      2012
+    ],
+    "source_rows": [
+      {
+        "Name": "Madden NFL 13",
+        "Platform": "PS3",
+        "Year_of_Release": "2012",
+        "Genre": "Sports",
+        "Publisher": "Electronic Arts",
+        "NA_Sales": "2.11",
+        "EU_Sales": "0.22",
+        "JP_Sales": "0",
+        "Other_Sales": "0.23",
+        "Global_Sales": "2.56",
+        "Critic_Score": "83",
+        "Critic_Count": "22",
+        "User_Score": "5.5",
+        "User_Count": "101",
+        "Developer": "EA Tiburon",
+        "Rating": "E"
+      },
+      {
+        "Name": "Madden NFL 13",
+        "Platform": "PS3",
+        "Year_of_Release": "2012",
+        "Genre": "Sports",
+        "Publisher": "Electronic Arts",
+        "NA_Sales": "0",
+        "EU_Sales": "0.01",
+        "JP_Sales": "0",
+        "Other_Sales": "0",
+        "Global_Sales": "0.01",
+        "Critic_Score": "83",
+        "Critic_Count": "22",
+        "User_Score": "5.5",
+        "User_Count": "101",
+        "Developer": "EA Tiburon",
+        "Rating": "E"
+      }
+    ],
+    "cleaned_rows": [
+      {
+        "Name": "Madden NFL 13",
+        "Platform": "PS3",
+        "Year_of_Release": 2012,
+        "Genre": "Sports",
+        "Publisher": "Electronic Arts",
+        "Global_Sales": 2.56,
+        "Critic_Score": 83.0,
+        "Critic_Count": 22,
+        "User_Score": 5.5,
+        "User_Count": 101
+      },
+      {
+        "Name": "Madden NFL 13",
+        "Platform": "PS3",
+        "Year_of_Release": 2012,
+        "Genre": "Sports",
+        "Publisher": "Electronic Arts",
+        "Global_Sales": 0.01,
+        "Critic_Score": 83.0,
+        "Critic_Count": 22,
+        "User_Score": 5.5,
+        "User_Count": 101
+      }
+    ]
+  }
+]
